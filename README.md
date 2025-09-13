@@ -33,8 +33,6 @@ The fashion store is a responsive e-commerce website template built entirely wit
 - Google Fonts (typography)
   
 ⭐️ __Clone the repository__ <br>
-
-- bash
 - git clone https://pallavicode-17.github.io/Fashion-store/
 - Open index.html in your web browser—no extra dependencies required.
 
