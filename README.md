@@ -22,12 +22,25 @@ The fashion store is a responsive e-commerce website template built entirely wit
 - Photoshop-optimized images for crisp product displays.
 
 ⭐️ __Tech Stack__ <br>
--- HTML5
+- HTML5
 
--- CSS3
+- CSS3
 
--- Adobe Photoshop (image extraction)
+- Adobe Photoshop (image extraction)
 
--- Font Awesome (icon library)
+- Font Awesome (icon library)
 
--- Google Fonts (typography)
+- Google Fonts (typography)
+  
+⭐️ __Clone the repository__ <br>
+
+- bash
+- git clone https://pallavicode-17.github.io/Fashion-store/
+- Open index.html in your web browser—no extra dependencies required.
+
+- All HTML is provided; images are extracted and optimized with Photoshop.
+
+- Icons are from Font Awesome and fonts are loaded via Google Fonts.
+
+⭐️ __Usage__ <br>
+- Simply run index.html in any desktop browser to view and interact with the store.
