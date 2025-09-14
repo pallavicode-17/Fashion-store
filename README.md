@@ -1,6 +1,6 @@
 # Fashion-store
 ⭐️ __Project Description__ <br>
-The fashion store is a responsive e-commerce website template built entirely with HTML and CSS. Designed to help students and developers practice frontend web design, this template streamlines the creation of modern storefronts for clothing, accessories, bags, and more. It solves the challenge of building stylish shop layouts without requiring JavaScript frameworks, offering a clean codebase for customization and learning.
+The fashion store is a e-commerce website template built entirely with HTML and CSS. Designed to help students and developers practice frontend web design, this template streamlines the creation of modern storefronts for clothing, accessories, bags, and more. It solves the challenge of building stylish shop layouts without requiring JavaScript frameworks, offering a clean codebase for customization and learning.
 
 ⭐️ __Key Features__ <br>
 - Sleek header featuring store branding, navigation menu, category search, Font Awesome icons, and shopping cart display.
