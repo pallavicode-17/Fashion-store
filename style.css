@@ -665,7 +665,8 @@
 }
 
 .newarrivals-stars {
-  margin: 9px 131px 12px 0;
+   margin:35px;
+  margin-left:0px;
   color: #fdcc0d;
   font-size: 1em;
   display: inline;
@@ -676,7 +677,7 @@
   color: #fff;
   border: none;
   border-radius: 4px;
-  padding: 7px 19px;
+  padding: 15px 38px 14px 27px;
   font-size: 15px;
   font-weight: 500;
   cursor: pointer;
@@ -951,4 +952,5 @@
   letter-spacing: 0.5px;
   margin-top:25px;
 }
+
 
