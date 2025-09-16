@@ -477,7 +477,7 @@
 }
 
 .grey-box1 {
-  width: 75px;
+  width: 60px;
   height: 476px;
   margin-top: -58px;
   background-color: #ebebeb;
@@ -684,7 +684,7 @@
 }
 
 .grey-box3 {
-  width: 78px;
+  width: 60px;
   height: 523px;
   margin-top: -75px;
   margin-right: -102px;
@@ -741,7 +741,7 @@
 
 .blog-row {
   display: flex;
-  gap: 175px;
+  gap: 167px;
 }
 
 .blog-card {
@@ -951,3 +951,4 @@
   letter-spacing: 0.5px;
   margin-top:25px;
 }
+
